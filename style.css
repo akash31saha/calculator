@@ -1,0 +1,27 @@
+body{
+   padding: 20px 30px;
+   margin-left: auto;
+   margin-right: auto;
+  text-align: center;
+  align-items: center;
+}
+.new{
+   text-align: center;
+   margin-left: auto;
+   margin-right: auto;
+   background: bisque;
+}
+.textview{
+   width: 222px;
+   height: 50px;
+   font-size: larger;
+   text-align: right;
+   margin-bottom: 3px;
+}
+
+.button{
+   width: 50px;
+   height: 50px ;
+   font-size: large;
+   margin: 2px;
+}
